@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# Updating from main branch
-=======
-# Bad update
->>>>>>> bad
+
+# Updating from main branch igoning updates from bad branch
 
 This is a demo line
 
