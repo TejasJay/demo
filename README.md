@@ -1,10 +1,7 @@
-
-# Updating from main branch igoning updates from bad branch
+# Demo Project
 
 This is a demo line
 
 Adding another line
 
 another line
-
-chamge
